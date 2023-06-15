@@ -1,15 +1,9 @@
 ### 👋 Hello there! I'm a Boston-based web developer passionate about crafting incredible online experiences. 💻 
-
-
-
+<br/>
 🔭 I’m currently working on Things I bring! 
-
 <br/>  
 🌱 I’m currently learning React Native and Node.js
-
 <br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
