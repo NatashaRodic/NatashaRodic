@@ -2,7 +2,9 @@
 
 
 
--🔭 I’m currently working on Things I bring! 
+🔭 I’m currently working on Things I bring! 
+
+<br/>  
 🌱 I’m currently learning React Native and Node.js
 
 <br/>  
