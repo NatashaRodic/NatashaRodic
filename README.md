@@ -1,6 +1,6 @@
 
 #### 👋 Hello there! 
-#### I'm Natasha, a Boston-based software engineer. I have developed several websites and a game using JavaScript, React.js, HTML, and CSS. Currently, I am delving deeper into backend development with Node.js, Express.js, MongoDB, and Mongoose
+#### I'm Natasha, a Boston-based software engineer. I have developed several websites and a game using JavaScript, React.js, HTML, and CSS. Currently, I am delving deeper into backend development with Node.js, Express.js, Python, Django, MongoDB, and Mongoose
 <br/>
 
 ----------------------
