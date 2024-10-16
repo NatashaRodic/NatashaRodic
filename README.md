@@ -1,6 +1,6 @@
 
 #### 👋 Hello there! 
-#### I'm Natasha, a Boston-based software engineer. I have developed several websites and a game using JavaScript, React.js, HTML, and CSS. Currently, I am delving deeper into backend development with Node.js, Express.js, Python, Django, MongoDB, and Mongoose
+
 <br/>
 
 ----------------------
@@ -12,7 +12,6 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="30" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" /></a>  
 </div>
 
 
